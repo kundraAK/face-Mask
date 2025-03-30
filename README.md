@@ -5,7 +5,6 @@ This project leverages an Image Processing model to create a classifier system f
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -13,8 +12,6 @@ This project leverages an Image Processing model to create a classifier system f
 ## Introduction
 
 The Face Mask Detection Model is a real-time application that uses computer vision techniques to identify whether a person is wearing a mask or not. It utilizes the OpenCV library and pre-trained Haar cascades for face and eye detection.
-## Demo
-https://github.com/gpra012333/Face-Mask-Detection/assets/142736928/a632400e-6c89-4d4d-b9cf-28fd86d3daed
 ## Features
 
 - Real-time face detection using a webcam.
